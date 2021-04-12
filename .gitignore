@@ -1,7 +1,9 @@
 # mac files
 .DS_Store
 
-# ignore vscode stuff
+# ignore idea's stuff
+.idea
+.idea/
 .settings
 .settings/
 .project

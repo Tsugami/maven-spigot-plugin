@@ -1,0 +1,4 @@
+name: MavenSpigotPlugin
+version: 1.0.0
+main: Main
+api-version: 1.15
